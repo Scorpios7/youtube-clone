@@ -10,6 +10,20 @@
     /* background-color: antiquewhite; */
 }
 
+.video-image {
+    position: relative;
+}
+
+.video-time {
+    position: absolute;
+    bottom: 12px;
+    color: #fff;
+    right: 5px;
+    padding: 2px 4px;
+    background-color: rgb(8, 11, 11);
+    font-size: 12px;
+}
+
 .video-img {
     width: 100%;
 }
